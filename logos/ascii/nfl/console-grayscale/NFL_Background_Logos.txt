@@ -1,0 +1,35 @@
+'............,,,,,,,,,,,,,.             ,,,,,;::;,,,,looooocoooooo'   .;:,.    .lllllllllllll
+o;,,;'.......,;::;:;::c::;.             ;;;;clocl;;;;dxxxxdclxxxxx' ;ooooool,  .ooooooooooooo
+'o...',',,,..;:,..,:;;::::.   ..''.....';;;:';oo';;;;dxdooc.;cooxx'lloooooooll .o::c::lcloooo
+.':'... ..';.;:''''',:l:,:,',:lldl'..:;.;;;o.;xxcl:;;dl,',; .,,.:d'dooooooollc..::k[37mO[0mk[37mK[0m[37m0[0m[37m0[0m[37mN[0m[37mK[0mxoo
+...:'......c;,:,... . ocl:.       ..cx, ;:o[37mK[0mooodx[37mO[0ml;;dollcc ,;lllx'ddoookc:xo...oolcod[37mO[0mxodkdl
+....;,,'  l:;,;;;c:;,;;c;;.          .  :::cdo:;;cc:;dxxd:;.;;lxxx'   .:ll:od[37mO[0mk'oooooocoooooo
+.......',,...,;;;;;:c::;;;.             :::cl,;llc:::dxxxxdcoxxxxx'         ;dc.ooooooooooooo
+,,,,,,,,,,,,,..............    'oxdoc.  .............;::::::::::::'.............,,';:,.......
+,,,,,,,,,,,,,....',,,'.....  ,k[37mX[0m[37mK[0m, .l[37mX[0mc .ckdxx'xx.lo.;::::c::;;:c:'.''..''''.''.l  :,....'c;'
+;;..';c,',c;;.,::;oo,.,,,.. ,k[37mK[0mkk  ..[37m0[0m[37m0[0m ..[37mX[0mo;[37mM[0m'l[37mN[0m.[37mk[0m[37mO[0m.;::c;'.....cd,.,dolo:lo;oo.c:. .''::;:'c
+lcccl:cc:d[37m0[0m[37mK[0m;,;;llc;.;okko..[37mO[0m[37mX[0m[37mO[0m[37m0[0m[37m0[0mc:,[37m0[0m[37mX[0m: ..[37mX[0mo,[37mM[0moc[37mW[0mx[37mX[0m[37mO[0m.;c:.      ;c:;[37m0[0mkxd[37mO[0mo;[37mO[0m:o[37mO[0mo.'d, ,d.:k';;,
+,;;;;;;;;;;:;......,:,.....:k[37mX[0mx.:odo;.  ..looooodd[37mX[0mk.:cccc:;,.,l::'.,,.:kkx,''....;; ..x:;...
+,,,,,,,,,,,,,..............,;od         ..,,,,,,,,,..;::::::::::::'...............;:.,l:'....
+,:::::::;''''..............   .         cccccclcccccc;,,::;,,,,,,,:lll:;;;;:lll:'''',,'''''''
+;koolododdo,'.........''',. ..;:;'',.. .[37mO[0mcdll;,:lodc[37mO[0m,,dl';;;;;;;'o[37mO[0mdx[37m0[0m[37mX[0m[37mN[0m[37mX[0m[37mN[0m[37mK[0mxd[37mO[0mx,,,,,,,;;;,,,
+,lxld[37mK[0m[37mN[0m[37mO[0mcllx,....,ck[37mO[0mxxo':. ,...,;',.; .[37m0[0m..,.:,:.,..[37m0[0m:lo[37mO[0mc.. ',';ddl[37m0[0m[37mW[0m[37mM[0m[37mW[0m[37mK[0m[37m0[0m[37mN[0m[37mW[0m[37mM[0m[37mX[0mod,,,,,,:;,,;:,
+';kll[37m0[0m[37mW[0m[37mK[0mcclxl..;od[37mN[0m[37mW[0m[37mK[0m[37mO[0mxc:'. ',.'';c'.: .k: .lk;[37mO[0mc. :k,'cx'. :,;c,';x[37mX[0m[37mO[0m[37mO[0m[37mO[0m[37mX[0m[37mN[0m[37m0[0mck[37mN[0m[37mO[0m:;;:,;;,,,,;;;
+';klc[37mO[0m[37mW[0m[37mN[0m[37m0[0mxdx:'ll;llc;;:'...  ;'.''',,' .kk. .o[37m0[0m[37m0[0m. .[37mO[0mk,'ll'.c;';'''co[37mN[0m[37mM[0m[37mM[0m[37mN[0mko[37mX[0mk[37mN[0m[37mW[0mxl,,,:;;:;;;;;;
+;kolloxxolxl'';,;,..'......   ..';.    .kkk;..;'';kkk,',k.c;''''''oxd[37mK[0m[37mW[0m[37mW[0mko[37mX[0m[37mW[0m[37mX[0mxdx,,;:;;;,,,,,,
+,dlllllllc;''..............     ..     .kkkkxc;ckkkkk,''':c'''''''o[37mO[0m[37mO[0mddxkxxddk[37mO[0mx,,,,,,,,,,,,,
+........................................xxo:,,:ccdxxx'.l[37mO[0ml....k[37mO[0m,..,,;cldlodc,,'.............
+.....',lddxl'...................;:......xl..:xc,';xxx'.x[37mN[0m:....x[37mN[0m:..,ckxxdcx[37mO[0mc;,'..:xol:,,'...
+.';,'.o:...dl..''c[37mO[0mx[37mk[0ml.''..'',,;;':,,,''xl;lxd;:o::xx'x[37mM[0m:......k[37mW[0m;.,d[37mW[0mc',';co::';k[37mK[0mocx:odxo;'
+.,,,,,,c;',c,..,.c;oxll:,....,;'...,,...xxd:;;xoxocxx'[37mK[0m[37mN[0m.......l[37mW[0mo.,cx.d[37mO[0mx[37mW[0m[37m0[0mo,,':[37mM[0m[37mM[0mkd,;ox[37mO[0m[37m0[0mo,
+......,;:oc:......':c.........;;,;'c....xx:,:ldcoodxx'c[37mW[0m[37m0[0m;...'l[37mN[0m[37mX[0m'.,,c,x[37mO[0mxo:,,,',;o[37mX[0m[37mK[0m[37m0[0moc:,'..
+........','..................';'...;,...xdolldo:lxxxx'.,k[37mN[0m[37mW[0m[37mX[0m[37mN[0m[37mW[0m[37mK[0mo...,;o;;,,,,,,,'..,''........
+;;:;;;;:;;;;;:::::::::::::'            .llllllllcllll,,,,,;::,,,,,....,'........;;;;;;;;;;;;;
+od.;;;,c[37mO[0m:dooodllooooooooo,   ..'''..   ;;;;;;;;:;:;;;::,,',:;;;;c.  .:.;..    .:::::::::::::
+oo .c;dlxolcoood:;c;lllloo,.:k[37mO[0mxddx[37mO[0m[37mO[0ml, ;;;;:;,'.',::;c;';,:x;,'';.   ld[37mO[0m[37mK[0m[37mO[0md'  .::cldddxdlc::
+d, 'l;.,o.[37mK[0m'doooc:,oc;o::oll[37mX[0m[37mM[0m:.coodkk;l:ccc:;;;;,,c::,.,,;,,;,.':.   .;:loll; .clxdccclololc
+d:.c'x;'::o;ooooodco'.k..l:cd[37mK[0m[37mK[0mdoox[37mX[0m[37mN[0m[37mk[0mc.;cc::;lc;cc;;:;::::;;;.;::. .;::ldxxd; .:l::::::::cc:
+oolc...,c:odooooooooocccoo, .';cool:'.  :cc;;;;;;;;;;;::::::c,::::.      :l;.  .c:::::::::::c
+lllo:llollllllllllllllllll,             ,,,,,,,,,,,,,;;;;;;;;c;;;;.      '.    .:::::::::::::
+                                                                                             
+                                                                                             
