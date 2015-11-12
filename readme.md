@@ -1,3 +1,10 @@
+![preview-1](previews/1.png)
+
+todo
+* [ ] Smaller versions
+* [ ] Script to display all logos
+* [ ] Script to insert into bash profile
+
 ```                                                                                             
                                                                                              
       co.                                                                                    
